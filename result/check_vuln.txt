@@ -1,0 +1,20 @@
+
+[[92mptr-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] 35.105.62.52.in-addr.arpa [[96mec2-52-62-105-35.ap-southeast-2.compute.amazonaws.com.[0m]
+[[92maem-sling-login[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35/system/sling/cqform/defaultlogin.html
+[[92mhttp-missing-security-headers[0m:[1;92mx-frame-options[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mreferrer-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mclear-site-data[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-opener-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-resource-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mstrict-transport-security[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mpermissions-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mx-permitted-cross-domain-policies[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-embedder-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mcontent-security-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mhttp-missing-security-headers[0m:[1;92mx-content-type-options[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35
+[[92mrobots-txt-endpoint[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35/robots.txt
+[[92mrobots-txt[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35/robots.txt
+[[92maem-merge-metadata-servlet[0m] [[94mhttp[0m] [[34minfo[0m] https://52.62.105.35/libs/dam/merge/metadata.html?path=/etc&.ico
+[[92mssl-issuer[0m] [[94mssl[0m] [[34minfo[0m] 52.62.105.35:443 [[96mAmazon[0m]
+[[92mssl-dns-names[0m] [[94mssl[0m] [[34minfo[0m] 52.62.105.35:443 [[96m*.adobecqms.net[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] 52.62.105.35:443 [[96mtls12[0m]

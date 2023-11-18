@@ -1,0 +1,10 @@
+Server:		172.17.160.1
+Address:	172.17.160.1#53
+
+Non-authoritative answer:
+www.rmit.edu.au	canonical name = rmit-prod65-01-351066865.ap-southeast-2.elb.amazonaws.com.
+Name:	rmit-prod65-01-351066865.ap-southeast-2.elb.amazonaws.com
+Address: 52.65.82.53
+Name:	rmit-prod65-01-351066865.ap-southeast-2.elb.amazonaws.com
+Address: 52.62.105.35
+

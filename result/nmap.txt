@@ -1,0 +1,63 @@
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-11-19 02:14 +07
+Initiating Ping Scan at 02:14
+Scanning 52.65.82.53 [4 ports]
+Completed Ping Scan at 02:14, 0.29s elapsed (1 total hosts)
+Initiating SYN Stealth Scan at 02:14
+Scanning www.rmit.edu.au (52.65.82.53) [65535 ports]
+Discovered open port 443/tcp on 52.65.82.53
+Discovered open port 80/tcp on 52.65.82.53
+SYN Stealth Scan Timing: About 5.36% done; ETC: 02:24 (0:09:07 remaining)
+SYN Stealth Scan Timing: About 10.56% done; ETC: 02:24 (0:08:37 remaining)
+SYN Stealth Scan Timing: About 16.62% done; ETC: 02:24 (0:07:37 remaining)
+SYN Stealth Scan Timing: About 22.25% done; ETC: 02:24 (0:07:03 remaining)
+SYN Stealth Scan Timing: About 30.04% done; ETC: 02:23 (0:05:52 remaining)
+SYN Stealth Scan Timing: About 38.12% done; ETC: 02:22 (0:04:54 remaining)
+SYN Stealth Scan Timing: About 47.60% done; ETC: 02:22 (0:03:52 remaining)
+SYN Stealth Scan Timing: About 56.68% done; ETC: 02:22 (0:03:04 remaining)
+SYN Stealth Scan Timing: About 65.22% done; ETC: 02:21 (0:02:25 remaining)
+SYN Stealth Scan Timing: About 75.94% done; ETC: 02:21 (0:01:35 remaining)
+SYN Stealth Scan Timing: About 87.52% done; ETC: 02:21 (0:00:47 remaining)
+Completed SYN Stealth Scan at 02:20, 358.15s elapsed (65535 total ports)
+Nmap scan report for www.rmit.edu.au (52.65.82.53)
+Host is up, received syn-ack ttl 236 (0.26s latency).
+Scanned at 2023-11-19 02:14:57 +07 for 358s
+Not shown: 65533 filtered ports
+Reason: 65533 no-responses
+PORT    STATE SERVICE REASON
+80/tcp  open  http    syn-ack ttl 236
+443/tcp open  https   syn-ack ttl 239
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 358.65 seconds
+           Raw packets sent: 131305 (5.777MB) | Rcvd: 236 (10.384KB)
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-11-19 02:20 +07
+Initiating Ping Scan at 02:20
+Scanning 52.62.105.35 [4 ports]
+Completed Ping Scan at 02:20, 0.26s elapsed (1 total hosts)
+Initiating SYN Stealth Scan at 02:20
+Scanning www.rmit.edu.au (52.62.105.35) [65535 ports]
+Discovered open port 443/tcp on 52.62.105.35
+Discovered open port 80/tcp on 52.62.105.35
+SYN Stealth Scan Timing: About 5.19% done; ETC: 02:30 (0:09:26 remaining)
+SYN Stealth Scan Timing: About 14.15% done; ETC: 02:28 (0:06:10 remaining)
+SYN Stealth Scan Timing: About 24.67% done; ETC: 02:27 (0:04:38 remaining)
+SYN Stealth Scan Timing: About 32.13% done; ETC: 02:27 (0:04:16 remaining)
+SYN Stealth Scan Timing: About 41.40% done; ETC: 02:27 (0:03:34 remaining)
+SYN Stealth Scan Timing: About 48.83% done; ETC: 02:27 (0:03:10 remaining)
+SYN Stealth Scan Timing: About 55.75% done; ETC: 02:27 (0:02:47 remaining)
+SYN Stealth Scan Timing: About 66.57% done; ETC: 02:26 (0:02:01 remaining)
+SYN Stealth Scan Timing: About 79.05% done; ETC: 02:26 (0:01:12 remaining)
+Completed SYN Stealth Scan at 02:26, 315.88s elapsed (65535 total ports)
+Nmap scan report for www.rmit.edu.au (52.62.105.35)
+Host is up, received syn-ack ttl 236 (0.26s latency).
+Scanned at 2023-11-19 02:20:55 +07 for 317s
+Not shown: 65533 filtered ports
+Reason: 65532 no-responses and 1 admin-prohibited
+PORT    STATE SERVICE REASON
+80/tcp  open  http    syn-ack ttl 236
+443/tcp open  https   syn-ack ttl 236
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 316.30 seconds
+           Raw packets sent: 131275 (5.776MB) | Rcvd: 208 (9.204KB)
