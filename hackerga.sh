@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "your target name(eg: example.com ):"
 read domain
+echo "$domain" > ./target.txt
 
 echo '' > ./result/template.txt
 
